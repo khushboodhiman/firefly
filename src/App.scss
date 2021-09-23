@@ -1,0 +1,14 @@
+$primary-color: #00F0FF;
+
+.main {
+    background: linear-gradient(180deg, #2F2F2F 0%, #181818 100%);
+    width: 100%;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 96px;
+    padding: 16px 24px;
+}
