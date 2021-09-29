@@ -2,9 +2,7 @@ import './Search-bar.scss';
 
 function Search () {
     return (
-    <div className="search-bar">
-        Search for artists, songs, albums...
-    </div>
+    <input type="text" placeholder="Search for artists, songs, albums..." className="search-bar"></input>
     );
 }
 
